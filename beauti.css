@@ -69,11 +69,12 @@ h3{
 }
 #experiences .half-width{
     box-shadow: 5px 5px 40px gray;
-    padding: 20px 30px;
+    padding: 20px 30px 0;
     margin-top: 25px;
     background: #fff;
     border-left: 5px solid;
     border-radius: 5px;
+    height: 300px;
 }
 #experiences .full-stack{
     border-image: linear-gradient(180deg, lightsalmon, tomato);
